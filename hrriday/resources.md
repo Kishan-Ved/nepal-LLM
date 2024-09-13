@@ -1,7 +1,9 @@
     blogs
 
-Mysansar: https://mysansar.com/<br> 
-Ghumante: https://ghumante.com/
+Source Title|Link|Raw Data Size
+:---:|:---:|---: 
+Mysansar|https://mysansar.com/|68MB
+Ghumante|https://ghumante.com/|72KB
 
     ebooks
 >plays
