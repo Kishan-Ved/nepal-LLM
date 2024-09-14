@@ -1,22 +1,20 @@
     blogs
 
-Source Title|Link|Raw Data Size
-:---:|:---:|---: 
-Mysansar|https://mysansar.com/|68MB
-Ghumante|https://ghumante.com/|72KB
-
-    ebooks
->plays
-
-Aadha Satya Drama: https://mandalatheatre.com/resources/aadha-satya-drama-book/
+Source Title|Link|Status|Num|Raw Data Size
+:---:|:---:|:---:|---:|---:
+Mysansar|https://mysansar.com/|Dataset Uploaded|5575|68MB
+Ghumante|https://ghumante.com/|Dataset Uploaded|3|72KB
 
     news/articles/opinion
 
-Desh Sanchar: https://deshsanchar.com/<br>
-Farakdhar: https://farakdhar.com/<br>
-Sahitya Post: https://sahityapost.com/<br>
-Sagarmatha TV: https://sagarmatha.tv/<br>
-Annapurna Post: https://annapurnapost.com/<br>
+Source Title|Link|Status|Num|Raw Data Size
+:---:|:---:|:---:|---:|---:
+Desh Sanchar|https://deshsanchar.com/|Links Extracted|170783|-
+Farakdhar|https://farakdhar.com/|Extracting Links|182704|-
+Sahitya Post|https://sahityapost.com/|Extracting Data|24653|-
+Sagarmatha TV|https://sagarmatha.tv/|Extracting Data|36209|-
+Annapurna Post|https://annapurnapost.com/|Extracting Links|-|-
+
 Dainik Nepal: https://www.dainiknepal.com/<br>
 DC Nepal: https://www.dcnepal.com/<br>
 Himal Khabar: https://www.himalkhabar.com/<br>

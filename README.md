@@ -11,7 +11,8 @@ Ghumante|Hrriday|https://ghumante.com/|Dataset Uploaded|3|72KB
 
 Source Title|POC|Link|Status|Num|Raw Data Size
 :---:|:---:|:---:|:---:|---:|---:
-Desh Sanchar|Hrriday|https://deshsanchar.com/|Extracting Links|~201104|-
+Desh Sanchar|Hrriday|https://deshsanchar.com/|Links Uploaded|170783|-
 Farakdhar|Hrriday|https://farakdhar.com/|Extracting Links|~182704|-
-Sahitya Post|Hrriday|https://sahityapost.com/|Extracting Links|~24648|-
-Sagarmatha TV|Hrriday|https://sagarmatha.tv/|Links Extracted|~36210|-
+Sahitya Post|Hrriday|https://sahityapost.com/|Extracting Data|24653|-
+Sagarmatha TV|Hrriday|https://sagarmatha.tv/|Extracting Data|36209|-
+Annapurna Post|Hrriday|https://annapurnapost.com/|Extracting Links|-|-
