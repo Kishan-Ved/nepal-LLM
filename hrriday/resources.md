@@ -11,7 +11,7 @@ Source Title|Link|Status|Num|Raw Data Size
 :---:|:---:|:---:|---:|---:
 Desh Sanchar|https://deshsanchar.com/|Links Extracted|170783|-
 Farakdhar|https://farakdhar.com/|Extracting Links|182704|-
-Sahitya Post|https://sahityapost.com/|Extracting Data|24653|-
+Sahitya Post|https://sahityapost.com/|Dataset Uploaded|24653|75MB
 Sagarmatha TV|https://sagarmatha.tv/|Extracting Data|36209|-
 Annapurna Post|https://annapurnapost.com/|Extracting Links|-|-
 
