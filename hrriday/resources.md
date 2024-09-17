@@ -9,11 +9,11 @@ Ghumante|https://ghumante.com/|Dataset Uploaded|3|72KB
 
 Source Title|Link|Status|Num|Raw Data Size
 :---:|:---:|:---:|---:|---:
-Desh Sanchar|https://deshsanchar.com/|Links Extracted|170783|-
-Farakdhar|https://farakdhar.com/|Extracting Links|182704|-
+Desh Sanchar|https://deshsanchar.com/|Extracting Data|170783|-
+Farakdhar|https://farakdhar.com/|On Hold|182704|-
 Sahitya Post|https://sahityapost.com/|Dataset Uploaded|24653|75MB
 Sagarmatha TV|https://sagarmatha.tv/|Dataset Uploaded|36209|36MB
-Annapurna Post|https://annapurnapost.com/|Extracting Links|-|-
+Annapurna Post|https://annapurnapost.com/|Extracting Data|200831|-
 
 Dainik Nepal: https://www.dainiknepal.com/<br>
 DC Nepal: https://www.dcnepal.com/<br>
