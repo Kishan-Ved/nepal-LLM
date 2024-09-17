@@ -12,7 +12,7 @@ Source Title|Link|Status|Num|Raw Data Size
 Desh Sanchar|https://deshsanchar.com/|Links Extracted|170783|-
 Farakdhar|https://farakdhar.com/|Extracting Links|182704|-
 Sahitya Post|https://sahityapost.com/|Dataset Uploaded|24653|75MB
-Sagarmatha TV|https://sagarmatha.tv/|Extracting Data|36209|-
+Sagarmatha TV|https://sagarmatha.tv/|Dataset Uploaded|36209|36MB
 Annapurna Post|https://annapurnapost.com/|Extracting Links|-|-
 
 Dainik Nepal: https://www.dainiknepal.com/<br>
