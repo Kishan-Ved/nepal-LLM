@@ -11,8 +11,11 @@ Ghumante|Hrriday|https://ghumante.com/|Dataset Uploaded|3|72KB
 
 Source Title|POC|Link|Status|Num|Raw Data Size
 :---:|:---:|:---:|:---:|---:|---:
-Desh Sanchar|Hrriday|https://deshsanchar.com/|Extracting Data|170783|-
+Desh Sanchar|Hrriday|https://deshsanchar.com/|On Hold|170783|-
 Farakdhar|Hrriday|https://farakdhar.com/|On Hold|~182704|-
 Sahitya Post|Hrriday|https://sahityapost.com/|Dataset Uploaded|24653|75MB
 Sagarmatha TV|Hrriday|https://sagarmatha.tv/|Dataset Uploaded|36209|36MB
-Annapurna Post|Hrriday|https://annapurnapost.com/|Extracting Data|200830|-
+Annapurna Post|Hrriday|https://annapurnapost.com/|On Hold|200830|-
+
+    literature
+Samakalin Sahitya|Hrriday|https://www.samakalinsahitya.com/|Dataset Uploaded|7115|26MB

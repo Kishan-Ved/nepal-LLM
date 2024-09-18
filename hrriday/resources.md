@@ -15,6 +15,9 @@ Sahitya Post|https://sahityapost.com/|Dataset Uploaded|24653|75MB
 Sagarmatha TV|https://sagarmatha.tv/|Dataset Uploaded|36209|36MB
 Annapurna Post|https://annapurnapost.com/|Extracting Data|200831|-
 
+    literature
+Samakalin Sahitya|https://www.samakalinsahitya.com/|Extracting Data|7115|26MB
+
 Dainik Nepal: https://www.dainiknepal.com/<br>
 DC Nepal: https://www.dcnepal.com/<br>
 Himal Khabar: https://www.himalkhabar.com/<br>
@@ -39,7 +42,6 @@ Kharibot: https://kharibot.com/<br>
 
     literature
 
-Samakalin Sahitya: https://www.samakalinsahitya.com/<br>
 Nai Academy: https://nai.com.np/<br>
 Freenepal: https://freenepal.com/<br>
 Shabda Sopan: https://shabdasopan.com/<br>
