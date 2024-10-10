@@ -8,19 +8,14 @@
 - Kishan Ved - 22110122
 - Sumeet Sawale - 22110234
 
-# Dataset Information
-[HuggingFace](https://huggingface.co/Kishan-Ved/nepal-llm/tree/main)
-
-[Google Sheet with information](https://docs.google.com/spreadsheets/d/1-co_8irDi8RMbQBpmy0dVurucci2tkUEoINtMe1r544/edit?usp=sharing)
-
-# Web Scraping, Downloading, and Cleaning Pipeline
-
 ## Overview
 
 This project involves scraping article data, downloading large datasets, cleaning Nepali text files, and generating hashes for deduplication. The pipeline follows these steps: Scraping, Downloading, Cleaning, Hash Generation, and Deduplication.
 
 ## Dataset information
-Google sheet containing information about datasets scrapped and downloaded [Google Sheet](https://docs.google.com/spreadsheets/d/1-co_8irDi8RMbQBpmy0dVurucci2tkUEoINtMe1r544/edit?usp=sharing).
+[Google Sheet](https://docs.google.com/spreadsheets/d/1-co_8irDi8RMbQBpmy0dVurucci2tkUEoINtMe1r544/edit?usp=sharing) containing information about datasets scrapped and downloaded
+
+[HuggingFace](https://huggingface.co/Kishan-Ved/nepal-llm/tree/main) containing scrapped datasets that were collected and cleaned on local machines.
 
 ## Pipeline
 
