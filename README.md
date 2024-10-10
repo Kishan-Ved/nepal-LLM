@@ -16,6 +16,8 @@
 
 This project involves scraping article data, downloading large datasets, cleaning Nepali text files, and generating hashes for deduplication. The pipeline follows these steps: Scraping, Downloading, Cleaning, Hash Generation, and Deduplication.
 
+> Google sheet containing information about datasets scrapped and downloaded [Google Sheet](https://docs.google.com/spreadsheets/d/1-co_8irDi8RMbQBpmy0dVurucci2tkUEoINtMe1r544/edit?usp=sharing).
+
 ## Pipeline
 
 ### 1. Scraping
@@ -61,10 +63,6 @@ This project involves scraping article data, downloading large datasets, cleanin
   
 - **LSH (Locality-Sensitive Hashing)** was used to compare hash values for deduplication.
 
-
-# **Nepali Text Scraping & Processing Project**
-
-This repository contains the code and datasets for scraping, cleaning, and hashing Nepali text from various sources. The datasets include articles, books, blogs, and public datasets related to Nepali language text. The main goal of this project is to create a high-quality, clean dataset of Nepali text for use in natural language processing (NLP) tasks.
 
 ## **Individual Contributions**
 
