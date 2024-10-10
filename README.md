@@ -16,6 +16,7 @@
 
 This project involves scraping article data, downloading large datasets, cleaning Nepali text files, and generating hashes for deduplication. The pipeline follows these steps: Scraping, Downloading, Cleaning, Hash Generation, and Deduplication.
 
+## Dataset information
 > Google sheet containing information about datasets scrapped and downloaded [Google Sheet](https://docs.google.com/spreadsheets/d/1-co_8irDi8RMbQBpmy0dVurucci2tkUEoINtMe1r544/edit?usp=sharing).
 
 ## Pipeline
