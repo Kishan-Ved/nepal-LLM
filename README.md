@@ -10,7 +10,8 @@
 
 # Dataset Information
 [HuggingFace](https://huggingface.co/Kishan-Ved/nepal-llm/tree/main)
-[Google Sheet with informatino](https://docs.google.com/spreadsheets/d/1-co_8irDi8RMbQBpmy0dVurucci2tkUEoINtMe1r544/edit?usp=sharing)
+
+[Google Sheet with information](https://docs.google.com/spreadsheets/d/1-co_8irDi8RMbQBpmy0dVurucci2tkUEoINtMe1r544/edit?usp=sharing)
 
 # Web Scraping, Downloading, and Cleaning Pipeline
 
