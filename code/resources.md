@@ -1,4 +1,4 @@
-# Some resources were checking out!
+# Some resources worth checking out!
     blogs
 
 Source Title|Link|
