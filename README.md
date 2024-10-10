@@ -115,3 +115,9 @@ This project involves scraping article data, downloading large datasets, cleanin
   - **3 datasets** (AllenAI, Statmt, Oscar).
   - A large-scale Nepali text corpus dataset from **IEEE**, split it into individual files while maintaining semantics, cleaned, and hashed them.
 - Developed code for parallelizing scraping using **ThreadPoolExecutor** for the listed tasks.
+- 
+
+## Acknowledgements
+Siddharth: For verifying bad words collected
+
+Rakesh Thakur: For provding valuable information about Nepali Datasets
