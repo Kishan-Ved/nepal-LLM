@@ -8,13 +8,6 @@
 - Kishan Ved - 22110122
 - Sumeet Sawale - 22110234
 
-## Pipeline
-The following pipeline was followed to curate Nepali language dataset:
-1. Web Scraping or Downloading existing datasets
-2. Data Cleaning
-3. Hash Generation
-4. Data Deduplication
-
 > Huggingface repo for datasets scraped locally for Assignment 1 [HuggingFace Link](https://huggingface.co/Kishan-Ved/nepal-llm/tree/main).
 
 # Web Scraping, Downloading, and Cleaning Pipeline
