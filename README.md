@@ -60,3 +60,61 @@ This project involves scraping article data, downloading large datasets, cleanin
   - **Hamming distance (SimHash)**: Lower the value, higher the similarity.
   
 - **LSH (Locality-Sensitive Hashing)** was used to compare hash values for deduplication.
+
+
+# **Nepali Text Scraping & Processing Project**
+
+This repository contains the code and datasets for scraping, cleaning, and hashing Nepali text from various sources. The datasets include articles, books, blogs, and public datasets related to Nepali language text. The main goal of this project is to create a high-quality, clean dataset of Nepali text for use in natural language processing (NLP) tasks.
+
+## **Individual Contributions**
+
+### **Kishan**
+- Scraped:
+  - Feature articles from **Ekantipur**.
+  - Opinions articles from **Ekantipur**.
+  - Books from **Internet Archive**: Bhagavad Gita, Mahabharata, Ramayan, 3 Vedas, and 7 parts of Bhagwat Mahapuran.
+  - Articles from **Online Khabar**.
+- Developed code for:
+  - Scraping **Ekantipur** and **Online Khabar** articles.
+  - Generating **SimHash** for all text files.
+  - Parallelizing scraping on the server for **Ekantipur** and **Online Khabar**.
+  - Cleaning data by removing bad words and non-Nepali (Devanagari) symbols from all text files.
+- Created a **Hugging Face repository** and uploaded the scraped files.
+
+### **Hrriday**
+- Scraped:
+  - Blogs: **Ghumante**, **Mysansar**.
+  - Literature articles: **Nai Academy**, **Shabd Sopan**, **Samakalin Sahitya**.
+  - News articles: **Annapurna Post**, **Desh Sanchar**, **Dainik Nepal**, **DcNepal**, **Farakdhar**, **Makalu Khabar**, **Sagarmatha TV**, **Sahitya Post**.
+- Developed a **BeautifulSoup + Requests** implementation for faster dataset curation compared to **Chromedriver**.
+- Added functionality of **ThreadPoolExecutor** to all scripts for enhanced speed.
+
+### **Sumeet**
+- Scraped:
+  - Articles from **Online Khabar** and **HimalKhabar**.
+- Downloaded:
+  - **CulturaX** dataset.
+  - **English to Nepali translation** dataset.
+- Developed code for:
+  - Converting **Parquet files to CSV**.
+  - Generating **MinHash** for deduplication.
+  - Cleaning and generating hashes for the downloaded datasets.
+
+### **Aditya**
+- Scraped:
+  - Poems from a website.
+  - Examiner Data.
+- Collected and verified **bad words** for the Nepali language with the help of a native speaker.
+- Downloaded and cleaned **4 datasets** (50GB combined) from **Hugging Face**.
+- Separated 2 of these datasets and generated **hashes** for them.
+- Contact: **Sidharth** (+91 93457 66974).
+
+### **Daksh**
+- Scraped:
+  - Articles from **News24Nepal**.
+  - Data from **Nepal Wiki**.
+- Cleaned and hashed both datasets.
+- Downloaded:
+  - **3 datasets** (AllenAI, Statmt, Oscar).
+  - A large-scale Nepali text corpus dataset from **IEEE**, split it into individual files while maintaining semantics, cleaned, and hashed them.
+- Developed code for parallelizing scraping using **ThreadPoolExecutor** for the listed tasks.
