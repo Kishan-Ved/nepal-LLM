@@ -8,7 +8,9 @@
 - Kishan Ved - 22110122
 - Sumeet Sawale - 22110234
 
-> Huggingface repo for datasets scraped locally for Assignment 1 [HuggingFace Link](https://huggingface.co/Kishan-Ved/nepal-llm/tree/main).
+# Dataset Information
+[HuggingFace](https://huggingface.co/Kishan-Ved/nepal-llm/tree/main)
+[Google Sheet with informatino](https://docs.google.com/spreadsheets/d/1-co_8irDi8RMbQBpmy0dVurucci2tkUEoINtMe1r544/edit?usp=sharing)
 
 # Web Scraping, Downloading, and Cleaning Pipeline
 
