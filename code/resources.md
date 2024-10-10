@@ -1,4 +1,4 @@
-# Some resources worth checking out!
+# Some UNCOMMON resources worth checking out!
     blogs
 
 Source Title|Link|
