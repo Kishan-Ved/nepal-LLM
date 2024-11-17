@@ -1,6 +1,6 @@
 # CS 613: NLP - Assignment 2  
 **Tokenizer & Model Training**  
-**Total Marks: 100 Pts**  
+
 **November 17, 2024**
 
 
